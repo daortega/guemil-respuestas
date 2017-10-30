@@ -1,0 +1,73 @@
+header{
+  text-align: right;
+  border-top: 2px solid #00BCD4;
+  border-bottom: 2px solid #00BCD4;
+  height: 200px;
+}
+
+h1{
+  font-size: 18px;
+  padding-bottom: 1em;
+  float: left;
+}
+
+h2{
+  font-size: 12px;
+  padding: 0.5em;
+  float: right;
+}
+h3{
+  font-size: 48px;
+}
+h4{
+  font-size: 24px;
+}
+
+section{
+  float: left;
+  display: block;
+}
+
+/* Header con análisis global del icono */
+  #identificacion{
+    display: block;
+  }
+
+  .info-icono{
+    padding: 3em 1em;
+    float: left;
+    width: 20%;
+    text-align:center;
+  }
+  #icono{
+    padding: 3em 4em 0em 0em;
+    float: left;
+    width: 10%;
+  }
+  .icono-subtitle{}
+
+/*Procesar respuestas*/
+#content{
+  padding: 2em 2em;
+}
+#todo-respuestas{
+  text-align: center;
+  padding-top: 2em;
+}
+.words{
+   /*border-bottom: 3px solid #607d8b;*/
+   font-size: 12px;
+}
+
+
+.orden-mijo{
+  float: left;
+  padding: 1em 1em 1em 1em;
+}
+
+.orden-mijo img{
+  height: 20px;
+  display: block;
+  margin: auto;
+  opacity: 0.5;
+}
